@@ -1,0 +1,4 @@
+grant codeBase "file:C:/example/bin/" 
+{
+	permission java.security.AllPermission;
+};
